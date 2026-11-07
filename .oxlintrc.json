@@ -1,0 +1,4 @@
+{
+  "plugins": ["eslint", "typescript", "react", "nextjs", "jsx-a11y"],
+  "categories": { "correctness": "error" }
+}
